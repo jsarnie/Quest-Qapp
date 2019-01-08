@@ -1,0 +1,11 @@
+C:\Users\jsarnie\source\repos\Qapp_rev1_0_1\Qapp_rev1_0_1\bin\Debug\Qapp_rev1_0_1.exe.config
+C:\Users\jsarnie\source\repos\Qapp_rev1_0_1\Qapp_rev1_0_1\bin\Debug\Qapp_rev1_0_1.exe
+C:\Users\jsarnie\source\repos\Qapp_rev1_0_1\Qapp_rev1_0_1\bin\Debug\Qapp_rev1_0_1.pdb
+C:\Users\jsarnie\source\repos\Qapp_rev1_0_1\Qapp_rev1_0_1\obj\Debug\Qapp_rev1_0_1.csprojAssemblyReference.cache
+C:\Users\jsarnie\source\repos\Qapp_rev1_0_1\Qapp_rev1_0_1\obj\Debug\Qapp_rev1_0_1.Startup.resources
+C:\Users\jsarnie\source\repos\Qapp_rev1_0_1\Qapp_rev1_0_1\obj\Debug\Qapp_rev1_0_1.Properties.Resources.resources
+C:\Users\jsarnie\source\repos\Qapp_rev1_0_1\Qapp_rev1_0_1\obj\Debug\Qapp_rev1_0_1.csproj.GenerateResource.cache
+C:\Users\jsarnie\source\repos\Qapp_rev1_0_1\Qapp_rev1_0_1\obj\Debug\Qapp_rev1_0_1.csproj.CoreCompileInputs.cache
+C:\Users\jsarnie\source\repos\Qapp_rev1_0_1\Qapp_rev1_0_1\obj\Debug\Qapp_rev1_0_1.exe
+C:\Users\jsarnie\source\repos\Qapp_rev1_0_1\Qapp_rev1_0_1\obj\Debug\Qapp_rev1_0_1.pdb
+C:\Users\jsarnie\source\repos\Qapp_rev1_0_1\Qapp_rev1_0_1\obj\Debug\Qapp_rev1_0_1.Form1.resources
